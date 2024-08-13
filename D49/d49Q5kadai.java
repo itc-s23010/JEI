@@ -6,7 +6,6 @@ public class d49Q5kadai {
 			int base1 = Integer.parseInt(args[1]);
 			int base2 = Integer.parseInt(args[2]);
 			int base3 = Integer.parseInt(args[3]);
-
 			int common = base1 * base2;
 			int common2 = base1 * base3;
 			int common3 = base2 * base3;
